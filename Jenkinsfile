@@ -1,4 +1,4 @@
-@Library('path')
+@Library('python')
 import threeCheers
 import repeatMessage
 import repeat
